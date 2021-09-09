@@ -1,8 +1,8 @@
 Integrantes:
 
-Estudiante 1: <br> <b>Federico Melo Barrero</b> <br> 202021525 <br> f.melo@uniandes.edu.co
+<b>Juan Camilo Prieto Avella</b> <br> 201814815 <br> jc.prietoa@uniandes.edu.co
 
-Estudiante 2: <br> <b>Juan Camilo Prieto Avella</b> <br> 201814815 <br> jc.prietoa@uniandes.edu.co
+<b>Federico Melo Barrero</b> <br> 202021525 <br> f.melo@uniandes.edu.co
 
 #ISIS1225 - Estructura de un proyecto
 
